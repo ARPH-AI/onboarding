@@ -6,7 +6,7 @@
 
 First and foremost, Welcome! :confetti_ball::balloon: Bienvenidos!
 
-Thank you for visiting the PLIN PLIN PLIN 
+Thank you for visiting the project "Onboarding" (OLS in Arphai) 
 
 This document is a hub to give you some information about the project. Jump straight to one of the sections below, or just scroll down to find out more.
 
