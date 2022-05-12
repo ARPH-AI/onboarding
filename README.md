@@ -40,11 +40,11 @@ To this end, the proposal is to generate an ecosystem of instruments/devices to 
 ### Who are we?
 
 The group that participates in the Onboarding (OLS) project is made up of:
-* [Sabrina lopez]: https://github.com/SLLDeC 
-* [Victoria Dumas]: https://github.com/vickygisel
-* [Laura Acion]: https://github.com/lauracion
-* [Federico Cesares]: https://github.com/FEDECESTARES
-* [Veronica Xhardez]: https://github.com/veroxgithub
+* [link Sabrina lopez]: https://github.com/SLLDeC 
+* [link Victoria Dumas]: https://github.com/vickygisel
+* [link Laura Acion]: https://github.com/lauracion
+* [link Federico Cesares]: https://github.com/FEDECESTARES
+* [link Veronica Xhardez]: https://github.com/veroxgithub
 
 
 ## Thank you
