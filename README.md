@@ -25,7 +25,7 @@ This project is a consortium of three institutions: [Centro Interdisciplinario d
 
 The multidisciplinary nature of the project requires the contributions of talented professionals from the most diverse areas. We are a big team that continues growing!
 
-### The project ONBOARDING (in ARPHAI) 
+### The project ONBOARDING (OLS in ARPHAI) 
 
 In the framework of the ARPHAI project, we identified as a problem the difficulty in getting people and teams involved. Therefore, we identified the need to improve instruments that allow a faster and safer immersion in ARPHAI(MISSION), especially where research projects are closely related to sensitive data (tools currently being developed).  
 
