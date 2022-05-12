@@ -30,14 +30,19 @@ The multidisciplinary nature of the project requires the contributions of talent
 PLIN PLIN PLIN 
 
 
-### Activities
+### Objectives
 
 PLIN PLIN PLIN
 
 
 ### Who are we?
 
-
+The group that participates in the Onboarding (OLS) project is made up of:
+* Sabrina lopez
+* Victoria Dumas
+* Laura Acion
+* Federico Cesares
+* Veronica Xhardez
 
 
 ## Thank you
