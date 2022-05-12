@@ -27,22 +27,24 @@ The multidisciplinary nature of the project requires the contributions of talent
 
 ### The project ONBOARDING (in ARPHAI) 
 
-PLIN PLIN PLIN 
+In the framework of the ARPHAI project, we identified as a problem the difficulty in getting people and teams involved. Therefore, we identified the need to improve instruments that allow a faster and safer immersion in ARPHAI(MISSION), especially where research projects are closely related to sensitive data (tools currently being developed).  
+
+The broader VISION of the proposal is to generate the conditions for improved openness and transparency that will encourage orderly participation in the project and thus enable its continuity in the medium term (irrespective of the source of funding and/or the people involved).
 
 
 ### Objectives
 
-PLIN PLIN PLIN
+To this end, the proposal is to generate an ecosystem of instruments/devices to facilitate the entry and participation of teams and individuals in the project. For Example: defining the mechanisms for opening up the results, forms, and channels of communication, administrative issues, protocols for the presentation of work plans, mechanisms for articulation with other institutions, protocols for accessing data, etc. 
 
 
 ### Who are we?
 
 The group that participates in the Onboarding (OLS) project is made up of:
-* Sabrina lopez
-* Victoria Dumas
-* Laura Acion
-* Federico Cesares
-* Veronica Xhardez
+* [Sabrina lopez]: https://github.com/SLLDeC 
+* [Victoria Dumas]: https://github.com/vickygisel
+* [Laura Acion]: https://github.com/lauracion
+* [Federico Cesares]: https://github.com/FEDECESTARES
+* [Veronica Xhardez]: https://github.com/veroxgithub
 
 
 ## Thank you
