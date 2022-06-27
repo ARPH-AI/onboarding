@@ -54,6 +54,8 @@ Responderemos tan pronto como podamos.
 
 Este código de conducta se aplica al proyecto de apertura de ARPHAI, pero si usted está siendo acosado por un miembro/invitado/participante de este proyecto fuera de nuestros espacios, también queremos saberlo. Tomaremos en serio todos los informes de buena fe de acoso de los miembros. Esto incluye el acoso fuera de nuestros espacios y sea cual sea el momento. La coordinación se reserva el derecho de excluir a las personas del proyecto de apertura de ARPHAI sobre la base de su comportamiento pasado, incluyendo el comportamiento fuera de los espacios propios del proyecto y hacia las personas que no integran el mismo.
 
+Con el fin de proteger a los voluntarios y participantes contra el abuso y el agotamiento que este podría generar, nos reservamos el derecho de rechazar cualquier informe que creamos haber sido hecho de mala fe. Los informes destinados a silenciar las críticas legítimas pueden ser eliminados sin respuesta.
+
 Respetaremos las solicitudes de confidencialidad con el propósito de proteger a las víctimas de abuso. A nuestra discreción, podemos nombrar públicamente a una persona sobre quien hemos recibido quejas de acoso, o advertir privadamente a terceros acerca de ellos, si creemos que hacerlo aumentará la seguridad de los miembros de los integrantes del proyecto o del público en general. No nombraremos víctimas de acoso sin su consentimiento.
 
 **Consecuencias**
